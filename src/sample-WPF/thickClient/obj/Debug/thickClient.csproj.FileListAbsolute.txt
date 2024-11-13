@@ -1,0 +1,14 @@
+D:\Git\sample-WPF\src\sample-WPF\thickClient\bin\Debug\thickClient.exe.config
+D:\Git\sample-WPF\src\sample-WPF\thickClient\bin\Debug\thickClient.exe
+D:\Git\sample-WPF\src\sample-WPF\thickClient\bin\Debug\thickClient.pdb
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\MainWindow.g.cs
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\App.g.cs
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\thickClient_MarkupCompile.cache
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\thickClient_MarkupCompile.lref
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\MainWindow.baml
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\thickClient.g.resources
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\thickClient.Properties.Resources.resources
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\thickClient.csproj.GenerateResource.cache
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\thickClient.exe
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\thickClient.pdb
+D:\Git\sample-WPF\src\sample-WPF\thickClient\obj\Debug\thickClient.csprojResolveAssemblyReference.cache

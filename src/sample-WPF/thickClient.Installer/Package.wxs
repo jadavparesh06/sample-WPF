@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+
+	<Package Name="Thick Client"
+			 Manufacturer="Matrix"
+			 Version="1.0.0.0"
+			 UpgradeCode="9baa4cd3-35b9-4456-a0aa-6c485daf0562"
+			 InstallerVersion="500"
+			 Compressed="yes"
+			 Scope="perMachine" >
+
+		<!-- Define the UI section -->
+		<UIRef Id="WixUI_Minimal" />
+		
+		<MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" AllowSameVersionUpgrades="no" />
+		
+		<!-- Define the feature that groups components -->		
+		<Feature Id="Main" Title="Thick Client Feature" Level="1">
+			<ComponentGroupRef Id="ExampleComponents" />
+		</Feature>		
+		
+		<!-- Custom action to show completion message -->
+		<CustomAction Id="ShowCompletionMessage"
+					  Property="WixShellExecTarget"
+					  Value="cmd.exe /c echo Installation Complete &amp; pause" />
+
+		<!-- Schedule the custom action after installation finalizes -->
+		<!-- Schedule the custom action after the InstallFinalize -->
+		<InstallExecuteSequence>
+			<Custom Action="ShowCompletionMessage" After="InstallFinalize"></Custom>
+		</InstallExecuteSequence>
+
+		<!-- Optionally, you can add the same action in the UI sequence -->
+		<InstallUISequence>
+			<Custom Action="ShowCompletionMessage" After="InstallFinalize"/>
+		</InstallUISequence>
+		
+		
+	</Package>
+</Wix>

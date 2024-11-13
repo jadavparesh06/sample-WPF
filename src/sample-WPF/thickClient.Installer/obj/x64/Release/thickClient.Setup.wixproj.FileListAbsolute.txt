@@ -1,0 +1,8 @@
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\bin\x64\Release\en-US\thickClient.Setup.msi
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\bin\x64\Release\en-US\cab1.cab
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\bin\x64\Release\en-US\thickClient.Setup.wixpdb
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\thickClient.Setup.wixproj.CoreCompileInputs.cache
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\en-US\cab1.cab
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\en-US\thickClient.Setup.msi
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\en-US\thickClient.Setup.wixpdb
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\thickClient.Setup.wixproj.BindTracking-en-US.txt

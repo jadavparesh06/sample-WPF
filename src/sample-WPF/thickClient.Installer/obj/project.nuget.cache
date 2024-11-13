@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DP484M8U9Lo=",
+  "success": true,
+  "projectFilePath": "D:\\Git\\sample-WPF\\src\\sample-WPF\\thickClient.Installer\\thickClient.Installer.wixproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paresh.jadav\\.nuget\\packages\\wixtoolset.ui.wixext\\5.0.2\\wixtoolset.ui.wixext.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

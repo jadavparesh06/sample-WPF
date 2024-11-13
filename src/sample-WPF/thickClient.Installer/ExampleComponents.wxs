@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+
+	<Fragment>
+		<ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+			<!-- Component for the main executable -->
+			<Component Id="MyWPFApp.exe" Guid="E38B4E72-3019-4A50-B5D1-DBB221D55988">
+				<File Source="..\$(WPFProjectName)\bin\$(Configuration)\$(WPFProjectName).exe" />
+			</Component>
+
+			<!-- Example of a DLL dependency -->
+			<Component Id="MyWPFApp.exe.config" Guid="4C246AF6-F7D6-4E39-84EB-BCCFDC82E918">
+				<File Source="..\$(WPFProjectName)\bin\$(Configuration)\$(WPFProjectName).exe.config" />
+			</Component>
+
+			<!-- Ensure all components have unique GUIDs -->
+		</ComponentGroup>
+	</Fragment>
+
+</Wix>

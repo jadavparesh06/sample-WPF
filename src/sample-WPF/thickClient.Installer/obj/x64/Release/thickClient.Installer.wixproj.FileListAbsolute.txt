@@ -1,0 +1,1 @@
+D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\thickClient.Installer.wixproj.CoreCompileInputs.cache

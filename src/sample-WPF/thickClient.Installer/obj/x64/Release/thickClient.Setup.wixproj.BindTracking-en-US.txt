@@ -1,0 +1,6 @@
+BuiltContentOutput	D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\en-US\cab1.cab
+BuiltPdbOutput	D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\en-US\thickClient.Setup.wixpdb
+BuiltTargetOutput	D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\en-US\thickClient.Setup.msi
+Input	..\thickClient\bin\Release\thickClient.exe
+Input	..\thickClient\bin\Release\thickClient.exe.config
+Intermediate	D:\Git\sample-WPF\src\sample-WPF\thickClient.Installer\obj\x64\Release\en-US\cab1.cab
